@@ -1,0 +1,32 @@
+{
+  "name": "lab5_givd_metelkin",
+  "version": "1.0.0",
+  "description": "Лабораторная работа по ГиВД №5",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "build": "webpack",
+    "watch": "webpack --watch",
+	"dist": "node dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poxy-proxy/lab5_givd.git"
+  },
+  "keywords": [
+    "\"vultr\""
+  ],
+  "author": "Sergey Metelkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poxy-proxy/lab5_givd/issues"
+  },
+  "homepage": "https://github.com/poxy-proxy/lab5_givd#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
