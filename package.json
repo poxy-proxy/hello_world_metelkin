@@ -1,7 +1,7 @@
 {
-  "name": "lab5_givd_metelkin",
-  "version": "1.0.0",
-  "description": "Лабораторная работа по ГиВД №5",
+  "name": "hello_world_metelkin",
+  "version": "1.1.0",
+  "description": "Самый обычный hello world",
   "main": "index.js",
   "scripts": {
     "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poxy-proxy/lab5_givd.git"
+    "url": "git+https://github.com/poxy-proxy/hello_world_metelkin.git"
   },
   "keywords": [
     "\"vultr\""
@@ -19,9 +19,9 @@
   "author": "Sergey Metelkin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/poxy-proxy/lab5_givd/issues"
+    "url": "https://github.com/poxy-proxy/hello_world_metelkin/issues"
   },
-  "homepage": "https://github.com/poxy-proxy/lab5_givd#readme",
+  "homepage": "https://github.com/poxy-proxy/hello_world_metelkin#readme",
   "dependencies": {
     "lodash": "^4.17.21"
   },
